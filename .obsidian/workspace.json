@@ -1,0 +1,420 @@
+{
+  "main": {
+    "id": "ed5502a57fddf780",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca907093ddf2478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1f4a3365f93fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "soft healer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "soft healer"
+            }
+          },
+          {
+            "id": "5d66f8e5f398d09f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "astrotalk null error.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "astrotalk null error"
+            }
+          },
+          {
+            "id": "5bde26f4b82ec096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/ISS-1521022 - auto refunded.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISS-1521022 - auto refunded"
+            }
+          },
+          {
+            "id": "9dcd23d5a8bef30e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efforts and acheivement/Bugs fixed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bugs fixed"
+            }
+          },
+          {
+            "id": "2de76c7a30c2860f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hackathon/simple RAG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "simple RAG"
+            }
+          },
+          {
+            "id": "f7b0c84420d0daaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/router service error.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "router service error"
+            }
+          },
+          {
+            "id": "351ff2b0287326c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "babcb6008ce8fc42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/CB<>International payments are failing  || FINTELLIGENTS LEARNING LLP||QiGZJ3rbJXdKlL|| 17911787.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CB<>International payments are failing  || FINTELLIGENTS LEARNING LLP||QiGZJ3rbJXdKlL|| 17911787"
+            }
+          },
+          {
+            "id": "bee9e50dcbc7189e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/CB<>International payments are failing  || FINTELLIGENTS LEARNING LLP||QiGZJ3rbJXdKlL|| 17911787.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CB<>International payments are failing  || FINTELLIGENTS LEARNING LLP||QiGZJ3rbJXdKlL|| 17911787"
+            }
+          },
+          {
+            "id": "03e40e2922b9bba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efforts and acheivement/Bugs found.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bugs found"
+            }
+          },
+          {
+            "id": "c8eb3c3ed5e0476e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/gateware error internall format error.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gateware error internall format error"
+            }
+          },
+          {
+            "id": "5b34e30478c183a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLINKIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BLINKIT"
+            }
+          },
+          {
+            "id": "22964aef45319e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bug-fix - pg router.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bug-fix - pg router"
+            }
+          },
+          {
+            "id": "dc45807f4383e371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/CB<> Think Technology Services || Payment failure || 18020893.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CB<> Think Technology Services || Payment failure || 18020893"
+            }
+          },
+          {
+            "id": "64b812e1436b1c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efforts and acheivement/Bugs found.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bugs found"
+            }
+          },
+          {
+            "id": "63c9d584a9819d4d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1305db90b9fc129",
+    "type": "split",
+    "children": [
+      {
+        "id": "d18093a2e92bbb72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e2747d87aa2260c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "160ce3ed05ab08d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "92fd268730e90c2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a98948ec6eff794c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b496d0fab3a1f275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30674f41adc3cb0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1dfc7cdcdcc9f74a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "83092d3cf5c81451",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d524aee0fcc1b0fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "0e2747d87aa2260c",
+  "lastOpenFiles": [
+    "README.md",
+    "Efforts and acheivement/Bugs fixed.md",
+    "Tickets/router service error.md",
+    "Tickets/payment stuck in created but settlement is done.md",
+    "Tickets/ISS-1524519 - auto refunded currency mismatch.md",
+    "Tickets/ISS-1521022 - auto refunded.md",
+    "Tickets/gateware error internall format error.md",
+    "Tickets/CB<>International payments are failing  || FINTELLIGENTS LEARNING LLP||QiGZJ3rbJXdKlL|| 17911787.md",
+    "Tickets/CB<> Think Technology Services || Payment failure || 18020893.md",
+    "Tickets/CB <> Rampwin  CYZgbBaunfkxFp Payments fail due to fee 17064872.md",
+    "Tickets/Blinkit<> ROUTER_SERVICE_ERROR- ISS-1443492.md",
+    "Tickets/apple pay issue.md",
+    "Tickets/[ISS-1606177] CB <> Aarogya sarathi || Payments failing with BAD_REQUEST_INVALID_PAYMENT_FEE || 18168009.md",
+    "Analysis of rrn.md",
+    "Efforts and acheivement/Bugs found.md",
+    "Screenshot 2026-02-17 at 12.24.54 PM.png",
+    "Hackathon/Drawing 2025-12-16 15.50.00.excalidraw.md",
+    "BLINKIT.md",
+    "Hackathon/simple RAG.md",
+    "Hackathon/Tech Stack.md",
+    "bug-fix - pg router.md",
+    "Pasted image 20251112142842.png",
+    "soft healer.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Efforts and acheivement/Engg conversation.md",
+    "Pasted image 20251112142532.png",
+    "Screenshot 2026-02-02 at 11.52.12 AM.png",
+    "Screenshot 2026-01-24 at 8.33.23 PM.png",
+    "Hackathon",
+    "astrotalk null error.md",
+    "GO/slices.md",
+    "misc",
+    "Tickets",
+    "misc/Untitled.base",
+    "Efforts and acheivement",
+    "misc/Screenshot 2025-09-23 at 3.30.19 PM.png",
+    "misc/Screenshot 2025-09-23 at 3.12.14 PM.png",
+    "misc/Screenshot 2025-09-23 at 3.10.41 PM.png",
+    "GO"
+  ]
+}
