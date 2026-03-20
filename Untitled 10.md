@@ -78,6 +78,7 @@ Pre Sept:0
 
 Sept: (edited) 5
 
+
   
 
 [REDACTED - GitHub Token Removed]
@@ -157,24 +158,6 @@ was that passed in creation.(if recurring token then i believe it should be mand
   
 
 For international  we don’t set default max_amount, and we are not receiving the max_amount , and I have checked the payments they are of type CAW not subscripton
-
-  
-
-curl --location --request PUT 'https://payments-card-dark-concierge.razorpay.com/v1/entitiesV2/payment/PmdAanaAL2hwiF' \
-
---header 'Content-Type: application/json' \
-
---header 'Authorization: Basic W1lPVVJfS0VZX0lEXTpbWU9VUl9LRVlfU0VDUkVUXQ==' \
-
---data '{
-
-    "status": "captured",
-
-    "refund_status": "null",
-
-    "amount_refunded": 0
-
-}'
 
   
 
