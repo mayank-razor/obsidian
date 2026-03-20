@@ -226,9 +226,177 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.12.4"
             }
+          },
+          {
+            "id": "a3f3c0b3ada827c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminal issue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terminal issue"
+            }
+          },
+          {
+            "id": "ca69927ad6de4fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "89075987ca0536b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "43dd1f4487add369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
+          },
+          {
+            "id": "481f06e39ef20d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 5"
+            }
+          },
+          {
+            "id": "04b7dc9da9c8fc96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 6"
+            }
+          },
+          {
+            "id": "ed0c575a4acdd69c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 7"
+            }
+          },
+          {
+            "id": "a4092170ecb577c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "2c814a6b957fce0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "3f6a2f07486c11a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 10"
+            }
+          },
+          {
+            "id": "8d7c0ada33a0b8bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 11"
+            }
+          },
+          {
+            "id": "850a623a41e8ebd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 12"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -374,8 +542,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0e2747d87aa2260c",
+  "active": "850a623a41e8ebd1",
   "lastOpenFiles": [
+    "Untitled 11.md",
+    "Untitled 12.md",
+    "Untitled 10.md",
+    "Untitled 8.md",
+    "Untitled 9.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Terminal issue.md",
+    "apple_notes",
     "README.md",
     "Efforts and acheivement/Bugs fixed.md",
     "Tickets/router service error.md",
@@ -390,24 +571,12 @@
     "Tickets/apple pay issue.md",
     "Tickets/[ISS-1606177] CB <> Aarogya sarathi || Payments failing with BAD_REQUEST_INVALID_PAYMENT_FEE || 18168009.md",
     "Analysis of rrn.md",
-    "Efforts and acheivement/Bugs found.md",
     "Screenshot 2026-02-17 at 12.24.54 PM.png",
-    "Hackathon/Drawing 2025-12-16 15.50.00.excalidraw.md",
-    "BLINKIT.md",
-    "Hackathon/simple RAG.md",
-    "Hackathon/Tech Stack.md",
-    "bug-fix - pg router.md",
     "Pasted image 20251112142842.png",
-    "soft healer.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Efforts and acheivement/Engg conversation.md",
     "Pasted image 20251112142532.png",
     "Screenshot 2026-02-02 at 11.52.12 AM.png",
     "Screenshot 2026-01-24 at 8.33.23 PM.png",
     "Hackathon",
-    "astrotalk null error.md",
-    "GO/slices.md",
     "misc",
     "Tickets",
     "misc/Untitled.base",
